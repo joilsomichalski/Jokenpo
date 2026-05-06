@@ -10,15 +10,17 @@
     <div class="conteiner">
         <h1> Joken-Pô</h1>
             <div class="btn">
-                <button id="rock"><img src="./assets/carvao.png" alt="Pedra"></button>
-                <button id="paper"><img src="./assets/folha-de-papel.png" alt="Papel"></button>
-                <button id="scisor"><img src="./assets/tesouras.png" alt="Tesoura"></button>
+                <button id="rock" onclick="playHuman('rock')"><img src="./assets/carvao.png" alt="Pedra"></button>
+                <button id="paper" onclick="playHuman('paper')"><img src="./assets/folha-de-papel.png" alt="Papel"></button>
+                <button id="scissor" onclick="playHuman('scissor')"><img src="./assets/tesouras.png" alt="Tesoura"></button>
             </div>
 
             <div class="score">
                 <p class="p1">Sua Pontuação<br><span>0</span></p>
                 <p class="p2">Pontuação da IA<br><span>0</span></p>
             </div>
+
+            <script src="script.js"></script>
     </div>
 </body>
 </html>

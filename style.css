@@ -70,13 +70,18 @@ h1{
 }
 
 button:active{
-    transform: scale(0.8);
+    transform: scale(0.7);
     transition: 300ms;
     background: #a84da8;
 }
 
 .btn button:active img{
     transform: scale(1.9);
+        filter:
+        drop-shadow(2px 0 0 #ffffff)
+        drop-shadow(-2px 0 0 #ffffff)
+        drop-shadow(0 2px 0 #000)
+        drop-shadow(0 -2px 0 #000);
 }
 
 .score{
