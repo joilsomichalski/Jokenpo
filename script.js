@@ -55,7 +55,7 @@ const playTheGame = (human, machine) =>{
             IAScore.innerHTML = IAScoreNumber
             pularPontuacao(IAScoreBox)
 
-            result.innerHTML = "Você perdeu para a IA,<br> e ela vai roubar seu Emprego!"
+            result.innerHTML = "Você perdeu a rodada para a IA,<br> e ela vai roubar seu Emprego!"
     }
 
 }
