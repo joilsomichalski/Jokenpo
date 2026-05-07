@@ -17,9 +17,7 @@ O jogador escolhe entre Pedra, Papel ou Tesoura. A máquina faz uma escolha alea
 
 ## Tecnologias utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
+**HTML5** | **CSS3** | **JavaScript**
 
 ## Conceitos praticados
 
