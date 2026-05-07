@@ -4,20 +4,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>JokenpÃ´</title>
+    <link class="icon" rel="icon" href="./assets/jokenpo.webp">
+    <title>Joken-Pô</title>
 </head>
 <body>
     <div class="conteiner">
         <h1> Joken-Pô</h1>
             <div class="btn">
-                <button id="rock" onclick="playHuman('rock')"><img src="./assets/carvao.png" alt="Pedra"></button>
-                <button id="paper" onclick="playHuman('paper')"><img src="./assets/folha-de-papel.png" alt="Papel"></button>
-                <button id="scissor" onclick="playHuman('scissor')"><img src="./assets/tesouras.png" alt="Tesoura"></button>
+                <button id="PEDRA" onclick="playHuman('PEDRA')"><img src="./assets/carvao.png" alt="Pedra"></button>
+                <button id="PAPEL" onclick="playHuman('PAPEL')"><img src="./assets/folha-de-papel.png" alt="Papel"></button>
+                <button id="TESOURA" onclick="playHuman('TESOURA')"><img src="./assets/tesouras.png" alt="Tesoura"></button>
             </div>
 
+            <div class="winner">
+                <p>A IA escolheu: <span class="IA"></span></p>
+                <p>Você escolheu: <span class="you"></span></p>
+            </div>
+
+            <p class="result"></p>
+
             <div class="score">
-                <p class="p1">Sua Pontuação<br><span>0</span></p>
-                <p class="p2">Pontuação da IA<br><span>0</span></p>
+                <p class="p1">Sua Pontuação<br><span id="h">0</span></p>
+                <p class="p2">Pontuação da IA<br><span id="m">0</span></p>
             </div>
 
             <script src="script.js"></script>
