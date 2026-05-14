@@ -214,6 +214,7 @@ p {
     .result {
         font-size: 1.3rem;
         text-align: center;
+        visibility: visible;
     }
 
     p {
@@ -232,10 +233,6 @@ p {
     }
 
     .winner.show {
-        visibility: visible;
-    }
-
-    .result{
         visibility: visible;
     }
     
@@ -333,6 +330,7 @@ p {
         font-size: 1.1rem;
         text-align: center;
         text-shadow: none;
+        visibility: visible;
     }
 
     p {
@@ -345,10 +343,6 @@ p {
         font-size: 2.4rem;
     }
 
-
-    .result{
-        visibility: visible;
-    }
     .winner {
         width: 113%;
         
