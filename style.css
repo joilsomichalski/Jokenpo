@@ -285,8 +285,8 @@ p {
     }
 
     .btn img {
-        width: clamp(42px, 13vw, 55px);
-        height: clamp(42px, 13vw, 55px);
+        width: clamp(48px, 17vw, 59px);
+        height: clamp(48px, 17vw, 59px);
     }
 
     .btn button:active img {
