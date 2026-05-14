@@ -269,6 +269,18 @@ p {
         text-align: center;
     }
 
+    .winner{
+    background-color: rgba(168, 77, 168, 0.6);
+    display: none;
+    visibility: visible;
+    width: 113%;
+}
+
+.winner.show {
+    display: block;
+}
+
+
     .btn {
         width: 100%;
         flex-direction: row;
