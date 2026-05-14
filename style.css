@@ -214,7 +214,6 @@ p {
     .result {
         font-size: 1.3rem;
         text-align: center;
-        visibility: visible;
     }
 
     p {
@@ -330,7 +329,6 @@ p {
         font-size: 1.1rem;
         text-align: center;
         text-shadow: none;
-        visibility: visible;
     }
 
     p {
