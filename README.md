@@ -2,6 +2,10 @@
 
 Jogo de **Pedra, Papel e Tesoura** desenvolvido com **HTML**, **CSS** e **JavaScript**, com escolha automática da máquina, placar e feedback visual durante as rodadas.
 
+## Demonstração
+
+Acesse o projeto online: [raffle-page-phi.vercel.app](https://jokenpo-two-hazel.vercel.app/)
+
 ## Visão geral
 
 O jogador escolhe entre Pedra, Papel ou Tesoura. A máquina faz uma escolha aleatória, o resultado da rodada é calculado e o placar é atualizado automaticamente.
