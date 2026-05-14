@@ -290,7 +290,7 @@ p {
     }
 
     .btn button:active img {
-        transform: scale(1.35);
+        transform: scale(1.50);
     }
 
     .score {
