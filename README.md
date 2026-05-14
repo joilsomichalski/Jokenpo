@@ -4,7 +4,7 @@ Jogo de **Pedra, Papel e Tesoura** desenvolvido com **HTML**, **CSS** e **JavaSc
 
 ## Demonstração
 
-Acesse o projeto online: [raffle-page-phi.vercel.app](https://jokenpo-two-hazel.vercel.app/)
+Acesse o projeto online: [jokenpo-phi.vercel.app](https://jokenpo-two-hazel.vercel.app/)
 
 ## Visão geral
 
