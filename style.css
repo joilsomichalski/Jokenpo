@@ -154,7 +154,7 @@ p {
     }
 
     .conteiner {
-        width: 90%;
+        width: 100%;
         height: 90vh;
         max-height: calc(100dvh - 24px);
         padding: 16px;
@@ -316,7 +316,7 @@ p {
     }
 
     .result {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         text-align: center;
     }
 
