@@ -345,6 +345,10 @@ p {
         font-size: 2.4rem;
     }
 
+
+    .result{
+        visibility: visible;
+    }
     .winner {
         width: 113%;
         
