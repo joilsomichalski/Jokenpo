@@ -318,6 +318,8 @@ p {
     .result {
         font-size: 1.1rem;
         text-align: center;
+        -webkit-text-stroke: none;
+        text-shadow: none;
     }
 
     p {
