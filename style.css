@@ -235,6 +235,10 @@ p {
         visibility: visible;
     }
 
+    .result{
+        visibility: visible;
+    }
+    
     .winner p {
         gap: 12px;
         flex-wrap: wrap;
